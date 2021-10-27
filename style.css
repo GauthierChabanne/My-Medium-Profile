@@ -28,7 +28,7 @@ header, footer {
   margin: 0 auto;
   background-image: url("images/Voyance.jpeg") ;
   background-position: bottom;
-  background-size: contain;
+  background-size: cover;
   background-repeat: no-repeat;
   color: #ECEADF;
   padding: 150px;
